@@ -1,0 +1,178 @@
+body {
+    margin: 0;
+}
+
+.green-screen {
+    background-color: #28ae89;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 150vh;
+}
+
+.iphone1, .iphone2, .iphone3 {
+    width: 380px; /* Adjust the width as needed */
+    height: 600px;
+    background-color: #636363;
+    border-radius: 20px;
+    overflow: hidden;
+    margin-right: 20px; /* Adjust the margin to create space */
+}
+
+.img1 {
+    width: 350px;
+    height: auto;
+    margin-top: 30px;
+    right: -10px;
+    position: relative;
+}
+
+.img2 {
+    width: 100%;
+    height: auto;
+    margin-top: 140px;
+}
+
+.styled-text, .styled-textx, .styled-texty {
+    font-size: 38px;
+    position: absolute;
+    left: 48px;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    margin-bottom: 40px;
+}
+
+.styled-text {
+    top: 310px;
+}
+
+.styled-textx {
+    top: 340px;
+}
+
+.styled-texty {
+    top: 370px;
+}
+
+
+.custom-text {
+    font-family: 'Inter', sans-serif;
+    line-height: 1.5;
+    color: #fffdf2;
+    position: relative;
+    right: -10px;
+}
+.img3 {
+    width: 250px;
+    height: 50px;
+    display: block;
+    margin: 10px auto 0;
+}
+.buy-text {
+    color: #3B3B3B;
+  left: 130px;
+    position: relative;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    top: -40px;
+}
+
+.img4 {
+    width: 20px;
+    height: 25px;
+    top: 2px;
+    right: -30px;
+    position: relative;
+
+}
+
+
+.styled-text1{
+    font-size: 28px;
+    position: relative;
+    left: 19px;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    margin-bottom: 40px;
+}
+
+.img5{
+
+    width: 26px;
+    height: 15px;
+    left: 300px;
+    position: relative;
+   top: -70px;
+}
+
+.img6{
+    width: 8px;
+    height: 15px;
+    left: 300px;
+    position: relative;
+    top: -70px;
+}
+
+.text1, .text2 ,.text3{
+    font-size: 18px;
+    position: relative;
+    left: 10px;
+    color: #ff9e58;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    top: -20px;
+    display: inline-block;
+}
+.text1{
+    left: 10px;
+}
+
+.text2{
+    left: 20px;
+}
+.text3{
+    left: 30px;
+}
+.img7{
+    top: -17px;
+    width: 350px;
+    height: 3px;
+    position: relative;
+    left: 10px;
+}
+.img8{
+    top: -11px;
+    width: 16px;
+    height: 16px;
+    position: relative;
+    left: -260px;
+}
+
+.img9{
+top: -5px;
+width: 350px;
+height: 100px;
+position: relative;
+left: 10px;
+}
+.img10{
+    top: -150px;
+    width: 220px;
+    height: 180px;
+    position: relative;
+    left: -5px;
+}
+.img11{
+    position: relative;
+    top: -250px;
+    left: -110px;
+}
+.img12{
+    position: relative;
+    top: -250px;
+    left: 140px;
+    width: 210px;
+}
